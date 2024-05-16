@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @absamadDs
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning html css php 
+- 👀 I’m interested in back-end development 
+- 🌱 I’m currently learning java python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
