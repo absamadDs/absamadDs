@@ -1,6 +1,6 @@
 👋 Hi, I’m absamad👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀
 👀👀👀👀👀👀👀👀👀 I’m interested in back-end development 👀👀👀👀👀👀👀👀
-👀👀👀👀👀👀👀👀I’m currently learning java python 👀👀👀👀👀👀👀👀👀👀👀
+👀👀👀👀👀👀👀👀I’m currently learning java 👀👀👀👀👀👀👀👀👀👀👀
   
 <!---
 absamadDs/absamadDs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
